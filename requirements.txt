@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+langgraph
+rapidfuzz
+pydantic
+requests
+beautifulsoup4
+google-genai
+groq

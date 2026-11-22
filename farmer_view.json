@@ -1,0 +1,286 @@
+{
+ "generated_for": "farmer screen",
+ "language": "ar",
+ "direction": "rtl",
+ "status_labels": {
+  "info": "للعلم",
+  "watch": "للمتابعة",
+  "action": "تصرّف الآن",
+  "clear": "لا شيء يستدعي الانتباه"
+ },
+ "moments": [
+  {
+   "label": "01/09/2026 08:00",
+   "iso": "2026-09-01T08:00:00+01:00",
+   "farms": [
+    {
+     "farm_id": "cd6a2e4e",
+     "farm": "مزرعة مرناق",
+     "locality": "مرناق",
+     "has_sensors": true,
+     "sensors": {
+      "tank_pct": 70.0,
+      "tank_hours": 5.4,
+      "battery_pct": 90.0,
+      "battery_hours": 0.6
+     },
+     "overall": "action",
+     "overall_label": "تصرّف الآن",
+     "alerts": [
+      {
+       "event_id": 1,
+       "utility": "electricity",
+       "status": "action",
+       "status_label": "تصرّف الآن",
+       "headline": "انقطاع الكهرباء المتناوب يوم 01/09 من 13 إلى 18 في مرناق",
+       "when_start": "2026-09-01T13:00:00+01:00",
+       "when_end": "2026-09-01T18:00:00+01:00",
+       "channel": "app",
+       "mode": "smart_plan",
+       "summary": "انقطاع الكهرباء المتناوب يوم 01/09 من 13 إلى 18 في مرناق. المدة المتوقعة: 2 ساعة (تقدير). الخطر: مرتفع. هذا ليس انقطاعا متواصلا: الانقطاع يتناوب وقد يعود التيار دون إشعار. اشحن البطارية قبل الانقطاع (تكفي 0.6 ساعة فقط). شغّل المولّد: مراوح تهوية الدجاج، غرفة التبريد. قبل الانقطاع: مضخة البئر. أطفئ: إنارة الحظيرة.",
+       "actions": [
+        {
+         "equipment": "مراوح تهوية الدجاج",
+         "action": "Generator",
+         "action_label": "شغّل المولّد",
+         "reason": "البطارية لا تكفي: شغّل المولّد"
+        },
+        {
+         "equipment": "إنارة الحظيرة",
+         "action": "Off",
+         "action_label": "أطفئ",
+         "reason": "لا حاجة له أثناء الانقطاع"
+        },
+        {
+         "equipment": "مضخة البئر",
+         "action": "Before",
+         "action_label": "قبل الانقطاع",
+         "reason": "شغّله قبل الانقطاع لملء الخزان: الحيوانات تحتاج الماء"
+        },
+        {
+         "equipment": "غرفة التبريد",
+         "action": "Generator",
+         "action_label": "شغّل المولّد",
+         "reason": "البطارية لا تكفي: شغّل المولّد"
+        }
+       ],
+       "why": [
+        {
+         "key": "source",
+         "title": "من أين جاءت المعلومة",
+         "detail": "إعلان منشور في tunisienumerique.com. قراءة آلية، درجة الثقة في الاستخراج: 73٪."
+        },
+        {
+         "key": "place",
+         "title": "لماذا مزرعتك معنية",
+         "detail": "«مرناق» مذكورة في الإعلان."
+        },
+        {
+         "key": "duration",
+         "title": "المدة المتوقعة",
+         "detail": "2 ساعة (تقدير: الإعلان يعطي فترة واسعة وليس انقطاعا متواصلا)."
+        },
+        {
+         "key": "reserve",
+         "title": "احتياطيك",
+         "detail": "حسب الحساسات، البطارية تدوم نحو 0.6 ساعة: وهذا لا يكفي لهذا الانقطاع."
+        },
+        {
+         "key": "decisions",
+         "title": "كيف قررنا",
+         "detail": "مضخة البئر: وكيل الماء مقابل وكيل الطاقة. الأولوية: ماء الحيوانات وتهويتها"
+        },
+        {
+         "key": "probability",
+         "title": "احتمال أن تتأثر",
+         "detail": "نحو 52٪. منطقتك مذكورة لكن الانقطاع يتناوب: ليست كل المناطق في كل ساعة."
+        }
+       ],
+       "assumptions": [
+        "مدة الانقطاع مقدّرة بساعتين: الإعلان لا يذكر حدا أقصى.",
+        "قد يعود التيار دون إشعار.",
+        "قائمة المناطق غير نهائية.",
+        "نفترض أن المولّد جاهز ووقوده كافٍ للأجهزة المذكورة."
+       ],
+       "sources": [
+        {
+         "name": "tunisienumerique.com",
+         "url": "https://www.tunisienumerique.com/steg-des-coupures-delectricite-de-13h-a-18h-voici-les-zones-concernees/"
+        }
+       ]
+      }
+     ],
+     "all_clear_text": null
+    },
+    {
+     "farm_id": "8015af75",
+     "farm": "مزرعة kef",
+     "locality": "kef",
+     "has_sensors": true,
+     "sensors": {
+      "tank_pct": 70.0,
+      "tank_hours": 5.8,
+      "battery_pct": 90.0,
+      "battery_hours": 2.9
+     },
+     "overall": "clear",
+     "overall_label": "لا شيء يستدعي الانتباه",
+     "alerts": [],
+     "all_clear_text": "لا يوجد انقطاع معلن أو جارٍ في kef. نراقب 9 إعلانات حديثة."
+    },
+    {
+     "farm_id": "fdc396dd",
+     "farm": "مزرعة سوسة",
+     "locality": "سوسة",
+     "has_sensors": true,
+     "sensors": {
+      "tank_pct": 70.0,
+      "tank_hours": 5.2,
+      "battery_pct": 90.0,
+      "battery_hours": 0.7
+     },
+     "overall": "watch",
+     "overall_label": "للمتابعة",
+     "alerts": [
+      {
+       "event_id": 4,
+       "utility": "water",
+       "status": "watch",
+       "status_label": "للمتابعة",
+       "headline": "انقطاع الماء يوم 05/07 من 00 إلى 05 في سوسة",
+       "when_start": "2026-07-05T00:00:00+01:00",
+       "when_end": "2026-07-05T05:00:00+01:00",
+       "channel": "app",
+       "mode": "smart_plan",
+       "summary": "انقطاع الماء يوم 05/07 من 00 إلى 05 في سوسة. المدة المتوقعة: 5 ساعة. الخطر: متوسط. قبل الانقطاع: الريّ بالتقطير. أبقِ: مشارب الحيوانات.",
+       "actions": [
+        {
+         "equipment": "مشارب الحيوانات",
+         "action": "Keep",
+         "action_label": "أبقِ",
+         "reason": "الاحتياطي 5.2 ساعة يكفي لانقطاع 5 ساعة"
+        },
+        {
+         "equipment": "الريّ بالتقطير",
+         "action": "Before",
+         "action_label": "قبل الانقطاع",
+         "reason": "اسقِ قبل الانقطاع"
+        }
+       ],
+       "why": [
+        {
+         "key": "source",
+         "title": "من أين جاءت المعلومة",
+         "detail": "إعلان منشور في tunisienumerique.com. قراءة آلية، درجة الثقة في الاستخراج: 71٪."
+        },
+        {
+         "key": "place",
+         "title": "لماذا مزرعتك معنية",
+         "detail": "«سوسة» مذكورة في الإعلان."
+        },
+        {
+         "key": "duration",
+         "title": "المدة المتوقعة",
+         "detail": "5 ساعة حسب الإعلان."
+        },
+        {
+         "key": "reserve",
+         "title": "احتياطيك",
+         "detail": "حسب الحساسات، الخزان يدوم نحو 5.2 ساعة: وهذا يكفي لهذا الانقطاع."
+        },
+        {
+         "key": "probability",
+         "title": "احتمال أن تتأثر",
+         "detail": "نحو 77٪. حساب بسيط: المكان مذكور أم لا، نوع الانقطاع، وموثوقية المصدر."
+        }
+       ],
+       "assumptions": [
+        "قائمة المناطق غير نهائية."
+       ],
+       "sources": [
+        {
+         "name": "tunisienumerique.com",
+         "url": "https://www.tunisienumerique.com/sonede-coupures-deau-programmees-dans-trois-gouvernorats/"
+        }
+       ]
+      }
+     ],
+     "all_clear_text": null
+    },
+    {
+     "farm_id": "26eea304",
+     "farm": "مزرعة sousse",
+     "locality": "sousse",
+     "has_sensors": true,
+     "sensors": {
+      "tank_pct": 70.0,
+      "tank_hours": 673.1,
+      "battery_pct": 90.0,
+      "battery_hours": 1.6
+     },
+     "overall": "watch",
+     "overall_label": "للمتابعة",
+     "alerts": [
+      {
+       "event_id": 4,
+       "utility": "water",
+       "status": "watch",
+       "status_label": "للمتابعة",
+       "headline": "انقطاع الماء يوم 05/07 من 00 إلى 05 في sousse",
+       "when_start": "2026-07-05T00:00:00+01:00",
+       "when_end": "2026-07-05T05:00:00+01:00",
+       "channel": "app",
+       "mode": "smart_plan",
+       "summary": "انقطاع الماء يوم 05/07 من 00 إلى 05 في sousse. المدة المتوقعة: 5 ساعة. الخطر: متوسط. أبقِ: مشارب الحيوانات.",
+       "actions": [
+        {
+         "equipment": "مشارب الحيوانات",
+         "action": "Keep",
+         "action_label": "أبقِ",
+         "reason": "الاحتياطي 673.1 ساعة يكفي لانقطاع 5 ساعة"
+        }
+       ],
+       "why": [
+        {
+         "key": "source",
+         "title": "من أين جاءت المعلومة",
+         "detail": "إعلان منشور في tunisienumerique.com. قراءة آلية، درجة الثقة في الاستخراج: 71٪."
+        },
+        {
+         "key": "place",
+         "title": "لماذا مزرعتك معنية",
+         "detail": "«sousse» مذكورة في الإعلان."
+        },
+        {
+         "key": "duration",
+         "title": "المدة المتوقعة",
+         "detail": "5 ساعة حسب الإعلان."
+        },
+        {
+         "key": "reserve",
+         "title": "احتياطيك",
+         "detail": "حسب الحساسات، الخزان يدوم نحو 673.1 ساعة: وهذا يكفي لهذا الانقطاع."
+        },
+        {
+         "key": "probability",
+         "title": "احتمال أن تتأثر",
+         "detail": "نحو 77٪. حساب بسيط: المكان مذكور أم لا، نوع الانقطاع، وموثوقية المصدر."
+        }
+       ],
+       "assumptions": [
+        "قائمة المناطق غير نهائية."
+       ],
+       "sources": [
+        {
+         "name": "tunisienumerique.com",
+         "url": "https://www.tunisienumerique.com/sonede-coupures-deau-programmees-dans-trois-gouvernorats/"
+        }
+       ]
+      }
+     ],
+     "all_clear_text": null
+    }
+   ]
+  }
+ ]
+}

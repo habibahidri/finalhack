@@ -1,0 +1,208 @@
+{
+ "language": "ar",
+ "direction": "rtl",
+ "sections": [
+  {
+   "id": "animals",
+   "title_ar": "ماذا تربّي؟",
+   "type": "multi_with_size",
+   "options": [
+    {
+     "id": "cows",
+     "label_ar": "أبقار",
+     "label_fr": "vaches",
+     "icon": "cow"
+    },
+    {
+     "id": "sheep",
+     "label_ar": "أغنام",
+     "label_fr": "moutons",
+     "icon": "sheep"
+    },
+    {
+     "id": "goats",
+     "label_ar": "ماعز",
+     "label_fr": "chevres",
+     "icon": "goat"
+    },
+    {
+     "id": "poultry",
+     "label_ar": "دجاج",
+     "label_fr": "volailles",
+     "icon": "chicken"
+    },
+    {
+     "id": "camels",
+     "label_ar": "إبل",
+     "label_fr": "dromadaires",
+     "icon": "camel"
+    },
+    {
+     "id": "bees",
+     "label_ar": "نحل",
+     "label_fr": "abeilles",
+     "icon": "bee"
+    }
+   ],
+   "size_question_ar": "كم العدد تقريبا؟",
+   "sizes": [
+    {
+     "id": "small",
+     "label_ar": "قليل",
+     "hint_ar": "عدد صغير"
+    },
+    {
+     "id": "medium",
+     "label_ar": "متوسط",
+     "hint_ar": "عدد متوسط"
+    },
+    {
+     "id": "large",
+     "label_ar": "كثير",
+     "hint_ar": "عدد كبير"
+    }
+   ]
+  },
+  {
+   "id": "crops",
+   "title_ar": "ماذا تزرع؟",
+   "type": "multi",
+   "options": [
+    {
+     "id": "vegetables",
+     "label_ar": "خضروات",
+     "label_fr": "legumes",
+     "icon": "tomato"
+    },
+    {
+     "id": "olives",
+     "label_ar": "زيتون",
+     "label_fr": "oliviers",
+     "icon": "olive"
+    },
+    {
+     "id": "dates",
+     "label_ar": "نخيل (تمور)",
+     "label_fr": "palmiers dattiers",
+     "icon": "palm"
+    },
+    {
+     "id": "fruit_trees",
+     "label_ar": "أشجار مثمرة",
+     "label_fr": "arbres fruitiers",
+     "icon": "fruit"
+    },
+    {
+     "id": "cereals",
+     "label_ar": "حبوب",
+     "label_fr": "cereales",
+     "icon": "wheat"
+    }
+   ]
+  },
+  {
+   "id": "water_source",
+   "title_ar": "من أين تأتيك المياه؟",
+   "type": "multi",
+   "options": [
+    {
+     "id": "well",
+     "label_ar": "بئر",
+     "label_fr": "puits/forage",
+     "icon": "well"
+    },
+    {
+     "id": "sonede",
+     "label_ar": "الصوناد",
+     "label_fr": "SONEDE",
+     "icon": "tap"
+    },
+    {
+     "id": "tank",
+     "label_ar": "خزان ماء",
+     "label_fr": "reservoir",
+     "icon": "tank"
+    }
+   ]
+  },
+  {
+   "id": "backup_energy",
+   "title_ar": "هل عندك طاقة احتياطية؟",
+   "type": "multi",
+   "options": [
+    {
+     "id": "generator",
+     "label_ar": "مولّد كهرباء",
+     "label_fr": "groupe electrogene",
+     "icon": "generator"
+    },
+    {
+     "id": "battery",
+     "label_ar": "بطارية",
+     "label_fr": "batterie",
+     "icon": "battery"
+    },
+    {
+     "id": "solar",
+     "label_ar": "طاقة شمسية",
+     "label_fr": "solaire",
+     "icon": "sun"
+    },
+    {
+     "id": "none",
+     "label_ar": "لا شيء",
+     "label_fr": "rien",
+     "icon": "none"
+    }
+   ]
+  },
+  {
+   "id": "extras",
+   "title_ar": "هل عندك أيضا؟",
+   "type": "multi",
+   "options": [
+    {
+     "id": "cold_room",
+     "label_ar": "غرفة تبريد",
+     "label_fr": "chambre froide",
+     "icon": "snowflake"
+    },
+    {
+     "id": "greenhouse",
+     "label_ar": "بيوت محمية",
+     "label_fr": "serres",
+     "icon": "greenhouse"
+    },
+    {
+     "id": "incubator",
+     "label_ar": "حاضنة بيض",
+     "label_fr": "incubateur",
+     "icon": "egg"
+    }
+   ]
+  },
+  {
+   "id": "locality",
+   "title_ar": "أين توجد مزرعتك؟",
+   "type": "place_search"
+  }
+ ],
+ "answer_shape": {
+  "animals": {
+   "cows": "medium"
+  },
+  "crops": [
+   "vegetables"
+  ],
+  "water_source": [
+   "well"
+  ],
+  "backup_energy": [
+   "generator"
+  ],
+  "extras": [
+   "cold_room"
+  ],
+  "locality": "المروج"
+ }
+}

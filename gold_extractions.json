@@ -1,0 +1,1909 @@
+{
+ "https://www.tunisienumerique.com/steg-des-coupures-delectricite-de-13h-a-18h-voici-les-zones-concernees/": {
+  "notices": [
+   {
+    "is_outage_notice": true,
+    "utility": "electricity",
+    "event_type": "rotating_shedding",
+    "is_intermittent": true,
+    "list_is_exhaustive": false,
+    "restoration_without_notice": true,
+    "max_single_cut_hours": null,
+    "confidence": 0.95,
+    "places": [
+     {
+      "text": "Mornag",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Borj Cedria",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Radès",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "La Goulette",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Ben Arous",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Mégrine",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "El Ghazala",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Mohamedia",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Le Kram",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Nouvelle Médina",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Jardins d'El Menzah",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Borj Touil",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Sanhaja",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Jedaida",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Manouba",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Aïn Zaghouan",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Ennasr",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "La Soukra",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Hammam Ghezaz",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Hammamet",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Menzel Bouzelfa",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Menzel Temime",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Soliman",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Takelsa",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Béni Khalled",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Béni Khiar",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Somâa",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Nabeul",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Korba",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Dar Chaâbane",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Tazarka",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Maâmoura",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Kélibia",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Zaghouan Nord",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "El Fahs",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Bou Achir",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Zriba",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Jebel Oust",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Bir Mcherga",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Nadhour",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Ghar El Melh",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Utique",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Sejnane",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "El Khetmine",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Mateur",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Metline",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Menzel Jemil",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Menzel Bourguiba",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Ghazala",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Tinja",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Zarzouna",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Menzel Abderrahmane",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Zouaouine",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Aousja",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Ghardimaou",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Nefza",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Gaâfour",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Chemtou",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Oued Meliz",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Nebeur",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Touiref",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Ouchtata",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Rouhia",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Bou Salem",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Goubellat",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Kalaat Khasba",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Sidi Ismaïl",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Makthar",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Ksar Hellal",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Sayada",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Zaouiet Kontoch",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Bou Hajla",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Nasrallah",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Menzel Mhiri",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Sbiba",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Chorbane",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Souwassi",
+      "region_group": "Centre"
+     },
+     {
+      "text": "S'haylat",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Bekalta",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Rejiche",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Zone industrielle d'El Jem",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Enfidha",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Sidi Bou Ali",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Kalaa Kebira",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Riadh",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Ouled Achour",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Jemmal",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Bennane",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Sahline",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Msaken",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Hergla",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Bouficha",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Kerker",
+      "region_group": "Centre"
+     },
+     {
+      "text": "El Ala",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Zone industrielle d'Enfidha",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Hammam Sousse",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Cité universitaire Sousse",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Akouda",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Kalaa Seghira",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Menzel Kamel",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Moknine",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Chebba",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Khezama",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Sahloul 3",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Ouled Chamekh",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Chtouine",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Bouhjar",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Menzel Chaker",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Sfax Sud",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Sakiet Ezzit",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Sakiet Eddaïer",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Bir Ali",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Mahres",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Agareb",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "El Amra",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Thyna",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Sfax Ouest",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Sfax Ville",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Jebiniana",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "El Hencha",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Gabès-ville",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "El Menzel",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Jara",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Cité El Amal",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Chamati",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Chenini",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Bouchema",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "El Hamma",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Mareth",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Oudhref",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Métouia",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Houmt Souk",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Midoun",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "El Tlalet",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Jorf",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Guellala",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "El May",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Robbana",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Sedouikech",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Aghir",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Kébili",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Nezla",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Cité route de Gabès",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Souk Lahad",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Jemna",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Douz",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Faouar",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Kalaa",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Zaafrane",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Nouil",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Tataouine Nouvelle",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Tataouine-ville",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Cité El Mahrajene",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Smar",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Bir Lahmar",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Ghomrassen",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Remada",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Zahra",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "El Hicham",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Mouensa",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Souihel",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Zaouia",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Bsatine",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Chehbaniya",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Nefatia",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Cité Mars",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "route de Ras Jedir",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Dergoulia",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Hassi Amor",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Médenine-ville",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Béni Khedache",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Bou Ghrara",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Harich",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Ragouba",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "El Hamma",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Lejred",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Boudrias",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Chebiba",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Degueche",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "El Gallel",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Souk Jedid",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Chrayaa",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Lahmar",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Mekarem",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Chkhar",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Nouaiel",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Majel Bel Abbès",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Alanda",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Nasrallah",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Fouchana",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Hichria",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Ouled Haffouz",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Laâyoune",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Hazoua",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Hassi El Ferid",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Ouled Hamed",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Oum Ladhame",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "El Haguene",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Mazouna",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Nefta",
+      "region_group": "Sud-Ouest"
+     }
+    ],
+    "window_start": "2026-09-01T13:00:00+01:00",
+    "window_end": "2026-09-01T18:00:00+01:00",
+    "reason": "equilibre production/consommation"
+   }
+  ]
+ },
+ "https://www.tunisienumerique.com/coupures-delectricite-possibles-ce-mercredi-la-liste-des-zones-concernees/": {
+  "notices": [
+   {
+    "is_outage_notice": true,
+    "utility": "electricity",
+    "event_type": "rotating_shedding",
+    "is_intermittent": true,
+    "list_is_exhaustive": false,
+    "restoration_without_notice": true,
+    "max_single_cut_hours": null,
+    "confidence": 0.95,
+    "places": [
+     {
+      "text": "Ezzahra",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Borj Cedria",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Le Kram",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Hammam-Lif",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Jardins d'El Menzah",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Les Berges du Lac",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "La Manouba",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "La Goulette",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "El Mourouj",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Ben Arous",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Mégrine",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Aïn Zaghouan",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Ennasr",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "La Soukra",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Sidi Fredj",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Nouvelle Médina",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Borj Touil",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Sanhaja",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Jedeida",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "Kélibia",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Nabeul",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Hammamet",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Menzel Bouzelfa",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Menzel Temime",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Soliman",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Takelsa",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Somâa",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Korba",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Dar Chaâbane",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Tazarka",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Maâmoura",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Béni Khalled",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Béni Khiar",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Hammam Ghezèze",
+      "region_group": "Nord - Cap Bon"
+     },
+     {
+      "text": "Jebel Oust",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Zriba",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Bir Mcherga",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Nadhour",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Zaghouan Nord",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "El Fahs",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Bouachir",
+      "region_group": "Nord - Zaghouan"
+     },
+     {
+      "text": "Zarzouna",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Ghazala",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Menzel Bourguiba",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Tinja",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Menzel Abderrahmane",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Zaouaouine",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Aousja",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Ghar El Melh",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Utique",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Sejnane",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Khetmine",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Mateur",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Menzel Jemil",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Metline",
+      "region_group": "Nord - Bizerte"
+     },
+     {
+      "text": "Ghardimaou",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Nefza",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Gaâfour",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Chemtou",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Oued Meliz",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Nebeur",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Téboursouk",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Ouchtata",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Rouhia",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Bousalem",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Goubellat",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Kalaat Khasba",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Sidi Ismaïl",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Makthar",
+      "region_group": "Nord-Ouest"
+     },
+     {
+      "text": "Ksar Hellal",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Sayada",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Zaouiet Kontoch",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Bouhajla",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Nasrallah",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Menzel Mhiri",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Sbiba",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Cherbane",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Souassi",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Souehla",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Bekalta",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Rejiche",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Zone industrielle d'El Jem",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Enfidha",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Sidi Bou Ali",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Kalâa Kebira",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Riadh",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Ouled Achour",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Jemmal",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Bennane",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Sahline",
+      "region_group": "Centre"
+     },
+     {
+      "text": "M'saken",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Hergla",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Bouficha",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Kerker",
+      "region_group": "Centre"
+     },
+     {
+      "text": "El Alâa",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Zone industrielle d'Enfidha",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Hammam Sousse",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Cité universitaire de Sousse",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Akouda",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Kalâa Seghira",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Menzel Kamel",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Moknine",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Chebba",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Khezama",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Sahloul 3",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Ouled Chamekh",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Chetouine",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Bouhjar",
+      "region_group": "Centre"
+     },
+     {
+      "text": "Menzel Chaker",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Sfax Sud",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Sakiet Ezzit",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Sakiet Eddaïer",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Bir Ali Ben Khalifa",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Mahrès",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Agareb",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "El Amra",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Thyna",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Sfax Ouest",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Sfax-ville",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Jebeniana",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "El Hencha",
+      "region_group": "Sfax"
+     },
+     {
+      "text": "Cité El Izdehar",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Cité Ezzouhour",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "El Menzel",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Jara",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Oudhref",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Métouia",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Menzel Habib",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "El Hamma",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Mareth",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Matmata",
+      "region_group": "Sud - Gabès"
+     },
+     {
+      "text": "Houmt Souk",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Midoun",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Aghir",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Sedouikech",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Sakia",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Guellala",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "El Tlat",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Robbana",
+      "region_group": "Sud - Djerba"
+     },
+     {
+      "text": "Nezla",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Souk Lahad",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Kébili",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Jemna",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Douz",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "El Golâa",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Faouar",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Zaafrane",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Noueil",
+      "region_group": "Sud - Kébili"
+     },
+     {
+      "text": "Tataouine Nouvelle",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Cité El Mahrajène",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Smar",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Ghomrassen",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Bir Lahmar",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Remada",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Dhehiba",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Ezzahra",
+      "region_group": "Sud - Tataouine"
+     },
+     {
+      "text": "Chammakh",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Bassatine",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Mouensa",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Souihel",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Jallel",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Cité Mars",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Neffatia",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Chahbania",
+      "region_group": "Sud - Zarzis-Ben Guerdane"
+     },
+     {
+      "text": "Cité Ennour",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Dergoulia",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Boughrara",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Hricha",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Béni Khedache",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Hassi Amor",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "Souitir",
+      "region_group": "Sud - Médenine"
+     },
+     {
+      "text": "El Hamma",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Lejrad",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Boudrias",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Chebiba",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Degueche",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Gallel",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Souk Jedid",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Chrayâa",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Lahmar",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Mekarem",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Chkhar",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Nouaïel",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Majel Bel Abbès",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "El Alenda",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Nasrallah",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Fouchana",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Hichria",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Ouled Haffouz",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Laâyoune",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Hazoua",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Hassi El Ferid",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Ouled Hamed",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Oum Ladhame",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Hagne",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Mezzouna",
+      "region_group": "Sud-Ouest"
+     },
+     {
+      "text": "Nefta",
+      "region_group": "Sud-Ouest"
+     }
+    ],
+    "window_start": "2026-09-02T12:00:00+01:00",
+    "window_end": "2026-09-02T17:00:00+01:00",
+    "reason": "equilibre production/consommation"
+   }
+  ]
+ },
+ "https://www.tunisienumerique.com/sonede-coupure-deau-prevue-ce-vendredi-dans-ces-zones/": {
+  "notices": [
+   {
+    "is_outage_notice": true,
+    "utility": "water",
+    "event_type": "water_works",
+    "confidence": 0.95,
+    "places": [
+     {
+      "text": "Gremit El Gharbia",
+      "region_group": "Sousse - Enfidha"
+     },
+     {
+      "text": "El Ghoualif",
+      "region_group": "Sousse - Enfidha"
+     },
+     {
+      "text": "Sidi Saïdane",
+      "region_group": "Sousse - Enfidha"
+     },
+     {
+      "text": "Ouled Blel",
+      "region_group": "Sousse - Enfidha"
+     },
+     {
+      "text": "Al Smaïdia",
+      "region_group": "Sousse - Enfidha"
+     }
+    ],
+    "window_start": "2026-07-10T06:00:00+01:00",
+    "expected_restoration": "2026-07-10T16:00:00+01:00",
+    "reason": "raccordement d'un nouveau reservoir"
+   }
+  ]
+ },
+ "https://www.tunisienumerique.com/sonede-coupures-deau-programmees-dans-trois-gouvernorats/": {
+  "notices": [
+   {
+    "is_outage_notice": true,
+    "utility": "water",
+    "event_type": "water_regulation",
+    "confidence": 0.95,
+    "places": [
+     {
+      "text": "Sousse",
+      "region_group": "Sahel",
+      "level_hint": "gouvernorat"
+     },
+     {
+      "text": "Monastir",
+      "region_group": "Sahel",
+      "level_hint": "gouvernorat"
+     },
+     {
+      "text": "Mahdia",
+      "region_group": "Sahel",
+      "level_hint": "gouvernorat"
+     }
+    ],
+    "window_start": "2026-07-05T00:00:00+01:00",
+    "window_end": "2026-07-05T05:00:00+01:00",
+    "recurrence": "daily",
+    "reason": "remplissage des reservoirs, essais de la station de dessalement de Sousse"
+   }
+  ]
+ },
+ "https://www.tuniscope.com/article/435701/actualites/societe/sousse-sonede-534712": {
+  "notices": [
+   {
+    "is_outage_notice": true,
+    "utility": "water",
+    "event_type": "water_works",
+    "confidence": 0.95,
+    "places": [
+     {
+      "text": "Grimita El Gharbia",
+      "region_group": "Sousse - Enfidha"
+     },
+     {
+      "text": "Ghoualif",
+      "region_group": "Sousse - Enfidha"
+     },
+     {
+      "text": "Sidi Saïdane",
+      "region_group": "Sousse - Enfidha"
+     },
+     {
+      "text": "Ouled Blel",
+      "region_group": "Sousse - Enfidha"
+     },
+     {
+      "text": "Essmaïdia",
+      "region_group": "Sousse - Enfidha"
+     }
+    ],
+    "window_start": "2026-07-10T06:00:00+01:00",
+    "expected_restoration": "2026-07-10T16:00:00+01:00",
+    "reason": "raccordement d'un nouveau reservoir"
+   }
+  ]
+ },
+ "https://www.tuniscope.com/ar/article/436836/actu-arabe/arabe/steg-tunisie-051313": {
+  "notices": [
+   {
+    "is_outage_notice": true,
+    "utility": "electricity",
+    "event_type": "rotating_shedding",
+    "is_intermittent": true,
+    "list_is_exhaustive": false,
+    "restoration_without_notice": true,
+    "max_single_cut_hours": null,
+    "confidence": 0.95,
+    "places": [
+     {
+      "text": "فوشانة",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "المغيرة",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "برج السدرية",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "حي التضامن",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "سكرة",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "المروج",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "مقرين",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "رادس",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "الزهراء",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "حمام الأنف",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "بومهل",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "بيرين",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "أريانة",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "دوار هيشر",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "المرسى",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "برج الطويل",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "المنازه",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "المنارات",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "عين زغوان",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "حدائق قرطاج",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "قصر السعيد",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "الكرم",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "حلق الوادي",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "طبربة",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "الجديدة",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "سيدي ثابت",
+      "region_group": "Grand Tunis"
+     }
+    ],
+    "window_may_extend": true,
+    "window_start": "2026-07-23T11:00:00+01:00",
+    "window_end": "2026-07-23T17:00:00+01:00",
+    "reason": "التوازن بين الإنتاج والاستهلاك"
+   }
+  ]
+ },
+ "https://www.tuniscope.com/ar/article/437112/actu-arabe/arabe/steg-295314": {
+  "notices": [
+   {
+    "is_outage_notice": true,
+    "utility": "electricity",
+    "event_type": "rotating_shedding",
+    "is_intermittent": true,
+    "list_is_exhaustive": false,
+    "restoration_without_notice": true,
+    "max_single_cut_hours": null,
+    "confidence": 0.95,
+    "places": [
+     {
+      "text": "المروج",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "بن عروس",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "منوبة",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "عين زغوان",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "قمرت",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "صنهاجة",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "المحمدية",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "الجديدة",
+      "region_group": "Grand Tunis"
+     },
+     {
+      "text": "البحيرة",
+      "region_group": "Grand Tunis"
+     }
+    ],
+    "window_may_extend": true,
+    "window_start": "2026-07-27T13:00:00+01:00",
+    "window_end": "2026-07-27T17:00:00+01:00",
+    "reason": "التوازن بين الإنتاج والاستهلاك"
+   }
+  ]
+ }
+}
